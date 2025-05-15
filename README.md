@@ -3,13 +3,14 @@
 This repository contains automated tests for the Conduit app using [Playwright](https://playwright.dev/) and JavaScript.
 
 ## 📂 Project Structure
-
-├── pages/              # Page Object classes (LoginPage, EditorPage)
-├── tests/              # Test files
-├── utils/              # Test data
+```
+conduit-playwright-tests/
+├── pages/ # Page Object classes (LoginPage, EditorPage)
+├── tests/ # Test files
+├── utils/ # Test data
 ├── playwright.config.js
-└── README.md           # You're here!
-
+└── README.md # You're here!
+```
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
